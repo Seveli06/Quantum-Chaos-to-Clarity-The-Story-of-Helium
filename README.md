@@ -1,1 +1,3 @@
 # Quantum-Chaos-to-Clarity-The-Story-of-Helium
+This piece showcases my ability to transform a complex quantum mechanics topic into a visually engaging and story-driven presentation. Through a sequence of text-free slides, I’ve illustrated the challenges of modeling the helium atom using the Schrödinger equation and how atomic units simplify the problem. The deck is designed for animation and includes detailed internal comments to guide visual storytelling, making it ideal for educational media or explainer videos. This project highlights both my conceptual clarity and visual thinking as a science content creator.
+
